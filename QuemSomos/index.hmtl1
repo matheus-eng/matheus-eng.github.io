@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Quem Somos</title>
+		<meta charset="utf-8">
+	</head>
+
+    <style>
+        p, ol, li {
+            font-size: 20px;
+        }
+    </style>
+
+
+	<body background="matheus/fundo.png">
+		<table border="1" width="90%" align="center"> 
+
+			<tr>
+				<td>
+                    <img src="matheus/logo.jpg" width="50%">
+                </td>
+                <td align="right">
+                    <a href="index.html">Home</a>
+                    <a href="quem-somos.html"=quem-somos.html>Quem Somos</a>
+                    <a href="login.html">Contato</a>
+                </td>
+			</tr>
+
+         
+		</table>
+
+        <table border="1" width="90%" align="center"> 
+            <tr>
+                <td>
+                <h1>Supletivo cursos online: conheça tudo sobre a plataforma</h1>
+
+                    <p>Esta plataforma em parceria com algumas faculdades e com a ajuda de professores e estudantes conseguil reunir algumas das disciplinas que são cobradas em vestibular e no enem. Uma dica de um estudante É super bom vocês manterem uma rotina de estudo concreta. A princípio é muito difícil, muito duro, você estipular que vai estudar 9, 10 horas por dia e a vontade de querer furar sua rotina é constante – Theo<br><br>
+
+                    Aos poucos, o Sumpletivo como é mais conhecido no Brasil oferece cursos foi que  foram atualizandos  e ficando mais dinâmico. Hoje, é uma das referências para quem pensa em estudar pela web. Os preços são acessíveis e os estudantes podem usar um aplicativo conectado à internet ou baixar o conteúdo e depois estudar offline.</p>
+                    
+                    <h1>5 motivos para estudar na nossa plataforma !</h1>
+                    <ol>
+                        <li>Organização</li>
+                        <li>Conhecimento especifico e geral sobre as materias</li>
+                        <li>Simulados</li>
+                        <li>Reunir uma quatidade de conteudos com base nas materias </li>
+                        <li>Disciplina e foco</li>
+                    </ol>
+                    <h1>Objetivos da Plataforma</h1>
+                    <ol>O objetivo maior dessa plataforma é direcionar a todos aqueles que sempre tiverem grande dificuldade na organização e principalmente nos seus objetivos e metas, sempre que olhava para as materias sentia que não iria dar conta de tanta materia mas estamos aqui para lhe orientar.</ol>
+            </td>
+            </tr>
+        </table>
+
+	</body>
+</html>
