@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Contato</title>
+		<meta charset="utf-8">
+	</head>
+
+    <style>
+        p {
+            font-size: 20px;
+        }
+    </style>
+
+
+	<body background="matheus/fundo.png">
+		<table border="1" width="90%" align="center"> 
+
+			<tr>
+				<td>
+                    <img src="matheus/logo.jpg">
+                </td>
+                <td align="right">
+                    <a href="index.html">Home</a>
+                    <a href="quem-somos.html">Quem Somos</a>
+                    <a href="login.html">Contato</a>
+                </td>
+			</tr>
+
+            <tr>
+                <td colspan="2">
+                <p>Funcionamos das 7:30 manhã à 18:30 da tarde</p>
+                <h2>Entre em contato</h2>
+                <form>
+                     Seu email: <br>
+                     <input type="text" name="email"><br>
+                     Assunto<br>
+                     <input type="text" name="Assunto"><br>
+                     Descrição:<br>
+                     <textarea></textarea><br>
+                     <input type="submit" value="enviar">
+                </form>
+                </td>
+            </tr>
+		</table>
+
+        <table border="1" width="90%" align="center"> 
+            <tr>
+                <td>
+                <h1>
+            </td>
+            </tr>
+        </table>
+
+	</body>
+</html>
